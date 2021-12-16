@@ -1,4 +1,3 @@
-new Audio("Jingle Bells 3.mp3").play();
-function play(){
-XMLDocument.play();
+function click1(){
+    window.alert("Hi Renu and Chanu masi and Hiya");
 }
